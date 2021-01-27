@@ -1,5 +1,4 @@
 #include <mutex>
-#include <type_traits>
 
 template <typename F>
 class lazy_eval
